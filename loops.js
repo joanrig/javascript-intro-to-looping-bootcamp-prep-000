@@ -16,7 +16,10 @@ function whileLoop(number) {
   return "done";
   }
 
-function doWhileLoop(array)
+
+function doWhileLoop(array) {
+  
+}
 
 
 // function doWhileLoop(array) {
