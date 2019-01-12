@@ -16,13 +16,7 @@ function whileLoop(number) {
   return "done";
   }
 
-// let number = 75;
-// function whileLoop(number) {
-// while (number > 0) {
-//   console.log(--number);
-//     }
-//   return "done";
-// }
+
 
 
 // function doWhileLoop(array) {
